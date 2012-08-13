@@ -1,10 +1,9 @@
-
 /**
  * Module dependencies.
  */
 
-var md5 = require('md5')
-  , jsonp = require('jsonp')
+var md5 = require('md5-component')
+  , jsonp = require('jsonp/jsonp')
 
 /**
  * Creates an avatar <img> element
