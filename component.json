@@ -4,7 +4,7 @@
   "version": "0.0.2",
   "dependencies": {
     "uniba/md5-component": "0.0.1",
-    "uniba/jsonp": "0.0.1"
+    "uniba/jsonp": "*"
   },
   "scripts": ["gravatar.js"]
 }
