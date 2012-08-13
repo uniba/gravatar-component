@@ -3,12 +3,8 @@
   "description": "Simple browser implementation of the Gravatar API",
   "version": "0.0.2",
   "dependencies": {
-    "md5-component": "0.0.1",
-    "jsonp": "0.0.1"
+    "uniba/md5-component": "0.0.1",
+    "uniba/jsonp": "0.0.1"
   },
-  "component": {
-    "scripts": {
-      "gravatar": "gravatar.js"
-    }
-  }
+  "scripts": ["gravatar.js"]
 }
